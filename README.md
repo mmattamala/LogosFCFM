@@ -18,4 +18,21 @@ Saludos!
 Matías Mattamala A.
 
 
+=========
+Colaboradores:
 
+Agradezco las colaboraciones de:
+- Valentina Lingan: Propuso los logos de ing. civil y del dfi que no tenía.
+- Carolina García: Propuso los logos del Ceimat, Cam, Ceimec, Cefias, Cadcc, Ceie, Dgf, La radio integral y canal 6.
+
+
+=========
+En lista de espera:
+
+- CEIMEC
+- CEFIAS
+- CADCC
+- CEIC
+- Logo del departamento de Geofísica
+- La radio Integral
+- Canal 6
