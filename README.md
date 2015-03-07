@@ -27,12 +27,9 @@ Agradezco las colaboraciones de:
 
 
 =========
-En lista de espera:
+Propuestas en lista de espera:
 
-- CEIMEC
-- CEFIAS
-- CADCC
-- CEIC
-- Logo del departamento de Geofísica
-- La radio Integral
-- Canal 6
+- Carolina García: CEFIAS, CEIC, La radio Integral, Canal 6
+- Danitza Berríos: Asamblea de Geología
+- Steffano Pascualetti: INTA
+- David Cabello: Ingeniería para la sustentabilidad
