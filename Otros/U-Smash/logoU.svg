@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="284.40973"
+   height="329.55624"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="logoU.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="33.268535"
+     inkscape:cy="199.65983"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="726"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-323.27778,-257.375)">
+    <g
+       id="g3163"
+       style="font-size:443.90942383px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       transform="matrix(-1.0202464,0,0,0.98015536,648.42857,-9.2857143)" />
+    <g
+       transform="matrix(1.0202464,0,-0.16629546,0.98015536,236.55288,-18.64926)"
+       style="font-size:443.90942383px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       id="text3096-9" />
+    <g
+       id="g3197"
+       style="font-size:443.90942383px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#c90000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       transform="matrix(1.0202464,0,0,1.2295986,132.69404,-224.31702)">
+      <path
+         style="fill:#c90000;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 323.375,257.375 -0.0937,166.96875 c -0.0782,20.82313 1.09752,59.45178 8.42656,75.46875 l 37.97969,0 0,-242.4375 z m 82.25,0 0,242.4375 192.17227,0 c 5.74166,-12.2729 9.52461,-42.49503 9.89023,-75.46875 l -0.0937,-166.96875 -94.3125,0 0,62.125 0,120.4375 c -0.70842,24.23976 -20.95191,42.31565 -39.875,44.46875 -5.43512,1.38746 -10.61001,1.06528 -15.84375,0 -18.92309,-2.1531 -39.16658,-20.22899 -39.875,-44.46875 l 0,-120.4375 c -0.0344,-20.71982 0.0947,-41.41363 0.21875,-62.125 z m -68.65625,257.53125 c 7.31936,16.62519 18.93943,30.84208 32.71875,42.03125 l 0,-42.03125 z m 68.65625,0 0,62.6875 c 8.95442,3.37244 18.06457,5.63085 26.9375,6.65625 l 0,0.46875 c 22.49595,2.67701 44.30906,3.21096 65.84375,0 l 0,-0.46875 C 535.5385,579.95882 576.71778,554.13854 594,514.90625 z"
+         transform="matrix(0.98015538,0,0,0.81327353,-130.06078,182.4311)"
+         id="path3199"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+         inkscape:export-filename="/home/bstr/Documentos/SSB/logoU.png"
+         inkscape:export-xdpi="94.93"
+         inkscape:export-ydpi="94.93" />
+    </g>
+  </g>
+</svg>
