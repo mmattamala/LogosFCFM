@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="526.74884"
+   height="135.59708"
+   id="svg5549"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 34">
+  <defs
+     id="defs5551" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="333.35209"
+     inkscape:cy="-198.72827"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="728"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5554">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.647912,-198.03685)">
+    <g
+       id="g5600"
+       transform="matrix(2.7751082,0,0,2.7751082,139.92776,-1505.7159)">
+      <g
+         transform="matrix(0.15126757,0,0,0.18230735,-63.671816,542.52259)"
+         style="font-size:443.90942383px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#c90000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="g3197">
+        <path
+           inkscape:export-ydpi="94.93"
+           inkscape:export-xdpi="94.93"
+           inkscape:export-filename="/home/bstr/Documentos/SSB/logoU.png"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path3199"
+           transform="matrix(0.98015538,0,0,0.81327353,-130.06078,182.4311)"
+           d="m 323.375,257.375 -0.0937,166.96875 c -0.0782,20.82313 1.09752,59.45178 8.42656,75.46875 l 37.97969,0 0,-242.4375 z m 82.25,0 0,242.4375 192.17227,0 c 5.74166,-12.2729 9.52461,-42.49503 9.89023,-75.46875 l -0.0937,-166.96875 -94.3125,0 0,62.125 0,120.4375 c -0.70842,24.23976 -20.95191,42.31565 -39.875,44.46875 -5.43512,1.38746 -10.61001,1.06528 -15.84375,0 -18.92309,-2.1531 -39.16658,-20.22899 -39.875,-44.46875 l 0,-120.4375 c -0.0344,-20.71982 0.0947,-41.41363 0.21875,-62.125 z m -68.65625,257.53125 c 7.31936,16.62519 18.93943,30.84208 32.71875,42.03125 l 0,-42.03125 z m 68.65625,0 0,62.6875 c 8.95442,3.37244 18.06457,5.63085 26.9375,6.65625 l 0,0.46875 c 22.49595,2.67701 44.30906,3.21096 65.84375,0 l 0,-0.46875 C 535.5385,579.95882 576.71778,554.13854 594,514.90625 z"
+           style="fill:#c90000;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:34.21419144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#162d50;fill-opacity:1;stroke:#162d50;stroke-width:0.33857512;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         x="13.288256"
+         y="657.54248"
+         id="text5589"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5591"
+           x="13.288256"
+           y="657.54248"
+           style="font-size:54.74271393px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#162d50;fill-opacity:1;stroke:#162d50;stroke-width:0.33857512;stroke-opacity:1;font-family:KaratMedium;-inkscape-font-specification:KaratMedium Thin"
+           dx="0 -1.63 -1.12 -0.86000007 -1.45">Smash</tspan></text>
+    </g>
+  </g>
+</svg>
