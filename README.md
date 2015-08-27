@@ -25,6 +25,7 @@ Agradezco las colaboraciones de:
 - Carolina García: Propuso los logos del Ceimat, Cam, Ceimec, Cefias, Cadcc, Ceie, Dgf, La radio integral y canal 6.
 - Felipe Contreras Salinas: Aportó el logo de U-Smash en SVG
 - Gonzalo Olave: Aportó el logo del Centro de Sistemas Públicos en SVG
+- David Cabello: Propuso el logo de Ingeniería para la sustentabilidad
 
 =========
 Propuestas en lista de espera:
@@ -32,4 +33,3 @@ Propuestas en lista de espera:
 - Carolina García: CEFIAS, CEIC, La radio Integral, Canal 6
 - Danitza Berríos: Asamblea de Geología
 - Steffano Pascualetti: INTA
-- David Cabello: Ingeniería para la sustentabilidad
