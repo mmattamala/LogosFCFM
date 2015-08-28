@@ -26,6 +26,7 @@ Agradezco las colaboraciones de:
 - Felipe Contreras Salinas: Aportó el logo de U-Smash en SVG
 - Gonzalo Olave: Aportó el logo del Centro de Sistemas Públicos en SVG
 - David Cabello: Propuso el logo de Ingeniería para la sustentabilidad
+- Pier Bistolfi: Propuso el logo del Departamento de Ingeniería Industrial
 
 =========
 Propuestas en lista de espera:
