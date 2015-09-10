@@ -24,7 +24,7 @@ Agradezco las colaboraciones de:
 - Valentina Lingan: Propuso los logos de ing. civil y del dfi que no tenía.
 - Carolina García: Propuso los logos del Ceimat, Cam, Ceimec, Cefias, Cadcc, Ceie, Dgf, La radio integral y canal 6.
 - Felipe Contreras Salinas: Aportó el logo de U-Smash en SVG
-- Gonzalo Olave: Aportó el logo del Centro de Sistemas Públicos en SVG
+- Gonzalo Olave y Francisca Torre: Aportaron el logo del Centro de Sistemas Públicos en SVG
 - David Cabello: Propuso el logo de Ingeniería para la sustentabilidad
 - Pier Bistolfi: Propuso el logo del Departamento de Ingeniería Industrial
 
