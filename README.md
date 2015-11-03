@@ -27,6 +27,7 @@ Agradezco las colaboraciones de:
 - Gonzalo Olave y Francisca Torre: Aportaron el logo del Centro de Sistemas Públicos en SVG
 - David Cabello: Propuso el logo de Ingeniería para la sustentabilidad
 - Pier Bistolfi: Propuso el logo del Departamento de Ingeniería Industrial
+- Andrés Caba: Consiguió el logo oficial del DIE 2015
 
 =========
 Propuestas en lista de espera:
