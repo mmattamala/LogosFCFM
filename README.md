@@ -28,6 +28,7 @@ Agradezco las colaboraciones de:
 - David Cabello: Propuso el logo de Ingeniería para la sustentabilidad
 - Pier Bistolfi: Propuso el logo del Departamento de Ingeniería Industrial
 - Andrés Caba: Consiguió el logo oficial del DIE 2015
+- Joaquín Díaz: SPEL 
 
 =========
 Propuestas en lista de espera:
