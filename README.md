@@ -1,38 +1,39 @@
 LogosFCFM
 =========
 
-Este es un repositorio no-oficial con logos de diversos departamentos e instituciones de la Facultad de Ciencias FÌsicas y Matem·ticas (FCFM) de la Universidad de Chile.
+Este es un repositorio no-oficial con logos de diversos departamentos e instituciones de la Facultad de Ciencias F√≠sicas y Matem√°ticas (FCFM) de la Universidad de Chile.
 
 Algunos comentarios a considerar respecto al contenido del repositorio:
 - Los logos se encuentran en formato vectorial SVG, PNG y EPS.
-- Los logos fueron recopilados de diversas fuentes disponibles en internet (p·ginas oficiales, afiches, entre otros).
-- SÛlo los logos de la FCFM son oficiales, para mayor informaciÛn revisar las Normas Gr·ficas: http://ingenieria.uchile.cl/normas-graficas-fcfm/index.html. Los otros fueron portados a partir de im·genes usando vectorizaciÛn autom·tica y/o "a mano".
-- Los derechos de autorÌa de cada logo son de sus respectivos autores (esperemos que no existan molestias al respecto). En particular los nuevos logos de la universidad fueron diseÒados por Marcelo Contreras Luengo (http://escudouchile.wordpress.com/).
+- Los logos fueron recopilados de diversas fuentes disponibles en internet (p√°ginas oficiales, afiches, entre otros).
+- S√≥lo los logos de la FCFM son oficiales, para mayor informaci√≥n revisar las Normas Gr√°ficas: http://ingenieria.uchile.cl/normas-graficas-fcfm/index.html. Los otros fueron portados a partir de im√°genes usando vectorizaci√≥n autom√°tica y/o "a mano".
+- Los derechos de autor√≠a de cada logo son de sus respectivos autores (esperemos que no existan molestias al respecto). En particular los nuevos logos de la universidad fueron dise√±ados por Marcelo Contreras Luengo (http://escudouchile.wordpress.com/).
 
 - Cualquier aporte, enviar una solicitud por GitHub o directamente a mi mail (revisar U-Cursos).
 
 Espero que sean de aporte para la comunidad. 
 
 Saludos!
-MatÌas Mattamala A.
+Mat√≠as Mattamala A.
 
 
 =========
 Colaboradores:
 
 Agradezco las colaboraciones de:
-- Valentina Lingan: Propuso los logos de ing. civil y del dfi que no tenÌa.
-- Carolina GarcÌa: Propuso los logos del Ceimat, Cam, Ceimec, Cefias, Cadcc, Ceie, Dgf, La radio integral y canal 6.
-- Felipe Contreras Salinas: AportÛ el logo de U-Smash en SVG
-- Gonzalo Olave y Francisca Torre: Aportaron el logo del Centro de Sistemas P˙blicos en SVG
-- David Cabello: Propuso el logo de IngenierÌa para la sustentabilidad
-- Pier Bistolfi: Propuso el logo del Departamento de IngenierÌa Industrial
-- AndrÈs Caba: ConsiguiÛ el logo oficial del DIE 2015
-- JoaquÌn DÌaz: SPEL 
+- *Valentina Lingan:* Propuso los logos de ing. civil y del dfi que no ten√≠a.
+- *Carolina Garc√≠a:* Propuso los logos del Ceimat, Cam, Ceimec, Cefias, Cadcc, Ceie, Dgf, La radio integral y canal 6.
+- *Felipe Contreras Salinas:* Aport√≥ el logo de U-Smash en SVG
+- *Gonzalo Olave y Francisca Torre:* Aportaron el logo del Centro de Sistemas P√∫blicos en SVG
+- *David Cabello:* Propuso el logo de Ingenier√≠a para la sustentabilidad
+- *Pier Bistolfi:* Propuso el logo del Departamento de Ingenier√≠a Industrial
+- *Andr√©s Caba:* Consigui√≥ el logo oficial del DIE 2015
+- *Joaqu√≠n D√≠az:* SPEL
+- *Eduardo Riveros:* El Diario Integral, Comunidad Felicidad y La Radio Integral
 
 =========
 Propuestas en lista de espera:
 
-- Carolina GarcÌa: CEFIAS, CEIC, La radio Integral, Canal 6
-- Danitza BerrÌos: Asamblea de GeologÌa
+- Carolina Garc√≠a: CEFIAS, CEIC, La radio Integral, Canal 6
+- Danitza Berr√≠os: Asamblea de Geolog√≠a
 - Steffano Pascualetti: INTA
