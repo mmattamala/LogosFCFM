@@ -17,8 +17,7 @@ Saludos!
 Matías Mattamala A.
 
 
-=========
-Colaboradores:
+## Colaboradores
 
 Agradezco las colaboraciones de:
 - *Valentina Lingan:* Propuso los logos de ing. civil y del dfi que no tenía.
@@ -29,10 +28,9 @@ Agradezco las colaboraciones de:
 - *Pier Bistolfi:* Propuso el logo del Departamento de Ingeniería Industrial
 - *Andrés Caba:* Consiguió el logo oficial del DIE 2015
 - *Joaquín Díaz:* SPEL
-- *Eduardo Riveros:* El Diario Integral, Comunidad Felicidad y La Radio Integral
+- *Eduardo Riveros:* El Diario Integral, Comunidad Felicidad y La Radio Integral. Nuevo logo del DCC y CADCC
 
-=========
-Propuestas en lista de espera:
+## Propuestas en lista de espera
 
 - Carolina García: CEFIAS, CEIC, La radio Integral, Canal 6
 - Danitza Berríos: Asamblea de Geología
