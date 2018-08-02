@@ -14,6 +14,7 @@ Algunos comentarios a considerar respecto al contenido del repositorio:
 Espero que sean de aporte para la comunidad. 
 
 Saludos!
+
 Matías Mattamala A.
 
 
@@ -29,6 +30,9 @@ Agradezco las colaboraciones de:
 - *Andrés Caba:* Consiguió el logo oficial del DIE 2015
 - *Joaquín Díaz:* SPEL
 - *Eduardo Riveros:* El Diario Integral, Comunidad Felicidad y La Radio Integral. Nuevo logo del DCC y CADCC
+- *Fanny Taucare:* OpenLab, FabLab, Ingeniería & Ciencias 2030, A2IC, OpenBeauchef
+- *Francisco Vargas:* Nuevo logo CAM, Alumni Ing de Minas
+ 
 
 ## Propuestas en lista de espera
 
