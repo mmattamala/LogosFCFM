@@ -21,18 +21,19 @@ Matías Mattamala A.
 ## Colaboradores
 
 Agradezco las colaboraciones de:
-- *Valentina Lingan:* Propuso los logos de ing. civil y del dfi que no tenía.
-- *Carolina García:* Propuso los logos del Ceimat, Cam, Ceimec, Cefias, Cadcc, Ceie, Dgf, La radio integral y canal 6.
-- *Felipe Contreras Salinas:* Aportó el logo de U-Smash en SVG
-- *Gonzalo Olave y Francisca Torre:* Aportaron el logo del Centro de Sistemas Públicos en SVG
-- *David Cabello:* Propuso el logo de Ingeniería para la sustentabilidad
-- *Pier Bistolfi:* Propuso el logo del Departamento de Ingeniería Industrial
-- *Andrés Caba:* Consiguió el logo oficial del DIE 2015
-- *Joaquín Díaz:* SPEL
-- *Eduardo Riveros:* El Diario Integral, Comunidad Felicidad y La Radio Integral. Nuevo logo del DCC y CADCC
-- *Fanny Taucare:* OpenLab, FabLab, Ingeniería & Ciencias 2030, A2IC, OpenBeauchef
-- *Francisco Vargas:* Nuevo logo CAM, Alumni Ing de Minas
-- *Kenia Castillo:* Logos de Beauchef Diverso y CEPC 2019
+- **Valentina Lingan:** Propuso los logos de ing. civil y del dfi que no tenía.
+- **Carolina García:** Propuso los logos del Ceimat, Cam, Ceimec, Cefias, Cadcc, Ceie, Dgf, La radio integral y canal 6.
+- **Felipe Contreras Salinas:** Aportó el logo de U-Smash en SVG
+- **Gonzalo Olave y Francisca Torre:** Aportaron el logo del Centro de Sistemas Públicos en SVG
+- **David Cabello:** Propuso el logo de Ingeniería para la sustentabilidad
+- **Pier Bistolfi:** Propuso el logo del Departamento de Ingeniería Industrial
+- **Andrés Caba:** Consiguió el logo oficial del DIE 2015
+- **Joaquín Díaz:** SPEL
+- **Eduardo Riveros:** El Diario Integral, Comunidad Felicidad y La Radio Integral. Nuevo logo del DCC y CADCC
+- **Fanny Taucare:** OpenLab, FabLab, Ingeniería & Ciencias 2030, A2IC, OpenBeauchef
+- **Francisco Vargas:** Nuevo logo CAM, Alumni Ing de Minas
+- **Kenia Castillo:** Logos de Beauchef Diverso y CEPC 2019
+- **Mauricio Avdalov:** Logos de DIQBM
 
 
 ## Propuestas en lista de espera
