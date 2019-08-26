@@ -11,7 +11,7 @@ Algunos comentarios a considerar respecto al contenido del repositorio:
 
 - Cualquier aporte, enviar una solicitud por GitHub o directamente a mi mail (revisar U-Cursos).
 
-Espero que sean de aporte para la comunidad. 
+Espero que sean de aporte para la comunidad.
 
 Saludos!
 
@@ -32,7 +32,8 @@ Agradezco las colaboraciones de:
 - *Eduardo Riveros:* El Diario Integral, Comunidad Felicidad y La Radio Integral. Nuevo logo del DCC y CADCC
 - *Fanny Taucare:* OpenLab, FabLab, Ingeniería & Ciencias 2030, A2IC, OpenBeauchef
 - *Francisco Vargas:* Nuevo logo CAM, Alumni Ing de Minas
- 
+- *Kenia Castillo:* Logos de Beauchef Diverso y CEPC 2019
+
 
 ## Propuestas en lista de espera
 
